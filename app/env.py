@@ -19,4 +19,3 @@ if not AZURE_OPENAI_API_KEY or not AZURE_OPENAI_ENDPOINT or not AZURE_OPENAI_API
 
 if not AZURE_OPENAI_API_MODEL:
     raise ValueError("GPT model not found in environment variables.")
-
