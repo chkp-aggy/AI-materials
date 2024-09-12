@@ -9,7 +9,7 @@ It consists of the following files:
 * `gpt_query.py`: A module that utilized all the above mentioned components to query GPT print its response
 
 ## Running the mock app
-1. Get your API key
+1. Get your [API key](https://wiki.checkpoint.com/confluence/pages/viewpage.action?pageId=554281566#CloudSecurityR&DAIHackathon-AI_ENVIRONMENT)
 2. Insert it to the `.env` file
 3. Create a virtualenvironment (optional but recommended)
 4. Install dependencies with `pip install -r requirements.txt`
